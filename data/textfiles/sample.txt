@@ -1,0 +1,5 @@
+Most platforms prohibit aggressive automation in their ToS
+Instagram, LinkedIn, and others actively detect and ban bots
+There's a difference between official API usage (safer, limited) and unofficial scraping/automation (riskier, more powerful)
+
+What are you trying to build or automate? Tell me the platform and the goal, and I'll point you in the right direction.

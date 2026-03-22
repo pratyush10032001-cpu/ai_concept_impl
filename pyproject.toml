@@ -1,0 +1,17 @@
+[project]
+name = "ai-impl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "langchain>=0.3.28",
+    "langchain-community>=0.3.31",
+    "langchain-core>=0.3.83",
+    "langchain-huggingface>=0.3.1",
+    "pymupdf>=1.26.5",
+    "pypdf>=6.9.1",
+    "scikit-learn>=1.6.1",
+    "sentence-transformers>=5.1.2",
+]
