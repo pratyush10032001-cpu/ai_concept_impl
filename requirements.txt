@@ -7,3 +7,7 @@ sentence-transformers
 scikit-learn
 langchain-huggingface
 python-dotenv
+faiss-cpu
+chromadb
+streamlit
+langchain_groq
