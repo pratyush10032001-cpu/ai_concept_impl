@@ -14,7 +14,8 @@ goal = st.text_input("what is the goal you have in Mind?")
 
 context = st.text_area("Tell me about the experience")
 template = PromptTemplate(template=""" You are an {role} working in a company.You always have a {goal} in mind and you {context}""",
-input_variables=["role","goal","context"])
+input_variables=["role","goal","context"],
+validate_template=True)
 
 prompt = template.invoke({'role':role,'goal':goal,'context':context})
 

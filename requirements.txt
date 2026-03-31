@@ -11,3 +11,6 @@ faiss-cpu
 chromadb
 streamlit
 langchain_groq
+pydantic
+langchain-google-genai
+google-genai
