@@ -14,3 +14,6 @@ langchain_groq
 pydantic
 langchain-google-genai
 google-genai
+grandalf
+fastapi
+langserve
